@@ -17,4 +17,5 @@ Responsive and user-friendly interface
 
 📂 Assets
 
-Some images and test assets are stored under assets/images/test/img.webp
+Some images and test assets are stored under 
+![Calculator Screenshot](assets/images/test/img.webp)
