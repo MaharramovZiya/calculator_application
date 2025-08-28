@@ -17,5 +17,6 @@ Responsive and user-friendly interface
 
 📂 Assets
 
-Some images and test assets are stored under 
-![Calculator UI](assets/images/test/img.png)
+## 📸 Screenshot
+
+![App Screenshot](./lib/assets/test/img.png)
