@@ -18,4 +18,4 @@ Responsive and user-friendly interface
 📂 Assets
 
 Some images and test assets are stored under 
-![Calculator Screenshot](assets/images/test/img.webp)
+![Calculator UI](assets/images/test/img.png)
