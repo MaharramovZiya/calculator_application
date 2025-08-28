@@ -17,6 +17,8 @@ Responsive and user-friendly interface
 
 📂 Assets
 
+Some images and test assets are stored
+
 ## 📸 Screenshot
 
-![App Screenshot](./lib/assets/test/img.png)
+![App Screenshot](assets/test/img.png)
